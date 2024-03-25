@@ -5,7 +5,7 @@ from utils.data_utils import read_csvs_from_folder, split_question_answer, read_
 from openai import OpenAI
 from tqdm import tqdm
 
-client = OpenAI(api_key='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') # fill this api key number
+client = OpenAI(api_key='##########') # fill this api key number
 
 
 # code for get passage data
