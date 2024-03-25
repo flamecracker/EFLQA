@@ -1,0 +1,108 @@
+This audio reading of Andersen's Fairy Tales is read by
+
+Kara Shallenberg, Gesine, Tracy Hall, Amanda,
+Taylor Burton-Edward, Alice Elizabeth Still, Amanda Gould,
+Kevin McAsh, Sean McGaughey, Dilini Jayasinghe, Alessia,
+Claudine Chen, Fox in the Stars, Denny Sayers, Robert Garrison
+
+
+
+
+Contents
+
+# 01 - The Emperor - 00:13:31
+Read by: Kara Shallenberg
+
+# 02 - The Swineherd - 00:11:26
+Read by: Gesine
+
+# 03 - The Real Princess - 00:03:18
+Read by: Tracy Hall
+
+# 04 - The Shoes of Fortune - 01:06:44
+Read by: Amanda
+
+# 05 - The Fir Tree - 00:25:38
+Read by: Taylor Burton-Edward
+
+# 06 - The Snow Queen - 01:13:38
+Read by: Alice Elizabeth Still
+
+# 07 - The Leap Frog - 00:05:05
+Read by: Kara Shallenberg
+
+# 08 - The Elderbush - 00:16:11
+Read by: Amanda Gould, Winnacunnet High School
+
+# 09 - The Bell - 00:11:47
+Read by: Kevin McAsh
+
+# 10 - The Old House - 00:19:31
+Read by: Sean McGaughey
+
+# 11 - The Happy Family - 00:08:27
+Read by: Gesine
+
+# 12 - The Story of a Mother - 00:13:25
+Read by: Dilini Jayasinghe
+
+# 13 - The False Collar - 00:08:07
+Read by: Alessia
+
+# 14 - The Shadow - 00:32:25
+Read by: Claudine Chen
+
+# 15 - The Little Match Girl - 00:06:58
+Read by: Fox in the Stars
+
+# 16 - The Dream of Little Tuk - 00:12:45
+Read by: Denny Sayers
+
+# 17 - The Naughty Boy - 00:06:27
+Read by: Robert Garrison
+
+# 18 - The Red Shoes - 00:15:40
+Read by: Robert Garrison
+
+
+
+Librivox Audio Recording Public Domain Certification:
+
+The person or persons who have associated work with this document (the
+"Dedicator" or "Certifier") hereby either (a) certifies that, to the
+best of his knowledge, the work of authorship identified is in the
+public domain of the country from which the work is published, or (b)
+hereby dedicates whatever copyright the dedicators holds in the work of
+authorship identified below (the "Work") to the public domain. A
+certifier, moreover, dedicates any copyright interest he may have in the
+associated work, and for these purposes, is described as a "dedicator"
+below.
+
+A certifier has taken reasonable steps to verify the copyright status of
+this work. Certifier recognizes that his good faith efforts may not
+shield him from liability if in fact the work certified is not in the
+public domain.
+
+Dedicator makes this dedication for the benefit of the public at large
+and to the detriment of the Dedicator's heirs and successors. Dedicator
+intends this dedication to be an overt act of relinquishment in
+perpetuity of all present and future rights under copyright law, whether
+vested or contingent, in the Work. Dedicator understands that such
+relinquishment of all rights includes the relinquishment of all rights
+to enforce (by lawsuit or otherwise) those copyrights in the Work.
+
+Dedicator recognizes that, once placed in the public domain, the Work
+may be freely reproduced, distributed, transmitted, used, modified,
+built upon, or otherwise exploited by anyone for any purpose, commercial
+or non-commercial, and in any way, including by methods that have not
+yet been invented or conceived.
+
+
+
+
+Audio formats available:
+
+128kbit MP3 - MP3 subfolder
+64kbit Ogg Vorbis (variable bit rate) - OGG subfolder
+Apple AAC audiobook (16kbit mono) - M4B subfolder
+Speex - SPX subfolder
